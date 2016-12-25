@@ -1,0 +1,9 @@
+{ "name": "nfc-addon"
+    , "version": "0.1"
+    , "description": "libnfc and libfreefare addon for reading Mifare Classic Cards with node.js"
+    , "author" : "Jonathan Homer"
+    , "bin": "./path/to/program",
+    "repository"   :  {
+        "type" : "git",
+        "url"  : "https://github.com/homerjonathan/nfc-addon"
+    }}
